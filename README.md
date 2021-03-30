@@ -15,4 +15,4 @@ Also I learnt save system.
 ![RedJava3](https://user-images.githubusercontent.com/55928282/113066449-3643df00-91c3-11eb-8381-7e0d340feadd.PNG)
 
 
-There is a Unity WebGL build so you can run the game with your web browser. Only Mozilla Firefox can run the game right now. To run the game with Firefox change "privacy.file_unique_origin" to "false" in about:config.
+There is a Unity WebGL build so you can run the game with your web browser. Only Mozilla Firefox can run the game right now. To run the game with Firefox, change "privacy.file_unique_origin" to "false" in about:config.
